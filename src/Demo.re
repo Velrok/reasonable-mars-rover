@@ -57,3 +57,11 @@ Readline.readline((line) => {
   }
   myReaderState := nextReaderState(myReaderState^)
 })
+
+// Todo
+// - [ ] parse world def
+// - [ ] parse rover def
+// - [ ] handle rover instruction
+// - [ ] print final rover position after instruction seq
+// - [ ] remember failed rovers
+// - [ ] remember failed rovers
