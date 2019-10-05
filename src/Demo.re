@@ -21,7 +21,7 @@ type world = {
 };
 
 type direction = N | E | S | W;
-type instruction = L | R | F;
+type instruction = L | R | M;
 
 type rover = {
   x: int,
